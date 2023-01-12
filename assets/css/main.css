@@ -1,3 +1,14 @@
-body{
-    background-color: rgb(229, 136, 187);
+#wrapper{
+    border: 1px solid rgb(56, 200, 75);
+}    
+
+.row {
+    border: 1px solid rgb(184, 53, 53);
+    margin: 20px auto;
+    height: 400px;
+}
+
+.row div{
+    height: 150px;
+    border: 1px solid rgb(184, 53, 53);
 }
