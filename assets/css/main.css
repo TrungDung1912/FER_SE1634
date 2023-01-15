@@ -4,11 +4,9 @@
 
 .row {
     border: 1px solid rgb(184, 53, 53);
-    margin: 20px auto;
-    height: 400px;
+    margin-top: 40px;
 }
 
 .row div{
-    height: 150px;
     border: 1px solid rgb(184, 53, 53);
 }
